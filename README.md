@@ -36,33 +36,9 @@ The main objective are:
 
 # MISSION STATEMENT
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
- 
+
+The report attached contains the detailed analysis  report
 
 
-
-
-# KEY INSIGHTS
-1.	Branch B has the highest sales in Home and Lifestyle (25% of total sales) products followed by Branch A (24% of total sales).
-2.	Branch C has the highest sales in Food and Beverage (26% of total sales) followed by Branch B (16% of total sales).
-3.	Branch A excelled in sales of Sports, travel, home and lifestyle attributing to 43.9% of the total sales in the branch.
-4.	Sales are highest during the afternoons and evenings compared to during the day and at night (lowest).
-5.	Fashion accessories, food and beverage lead to 46% of sales in Branch C.
-6.	Electronic accessories were the least bought products contributing only 13% in total sales.
-7.	Females bought more fashion accessories, food and beverage than male customers.
-8.	The number of male customers was lower by 5% compared to female customers.
-9.	Premium Members bought 4% more than non-premium members.
-10.	Sales were highest in the month of September and August.
-11.	The month of April saw the least number of sales.
-
-
-
-# RECOMMENDATIONS
-1.	The Weekend Spa Day in Branch C contributed to the high Fashion accessories sales in the branch. This also helped increase the sales in Food and Beverage due to the traffic of customers especially ladies. Introduction of such or related programs in the other branches would help boost sales. Expansion of the dining section in Branch C would help increase the Food and beverage further by an estimated 15%
-2.	The program Premier Homes in Branch B that incorporated a whole living room arrangement with electronics helped push the sales of electronics, and living items. Such arrangements especially in Branch C would help strengthen the sales. 
-3.	Female customers tended to be the highest customers of Food and Beverage products. Stocking shelves adjacent to them with female fashion items which they purchased less would help boost sales for the fashion accessories product line. 
-4.	Premium Premier members had the highest sales compared to regular shoppers, having membership incentives and loyalty points would help boost the members to shop more. Review of the membership plans would also bring more non-members to the membership package which would help in increasing subscription to the membership plan.
-5.	To help boost sales, making one of the branches 24 hrs. would help in the boosting of nights sales. This can then be rolled out to other branches if positive feedback is realized.
-
- 
 
 
